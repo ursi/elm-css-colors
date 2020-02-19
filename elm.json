@@ -1,0 +1,16 @@
+{
+    "type": "package",
+    "name": "ursi/elm-css-colors",
+    "summary": "Use the CSS named colors in elm-css",
+    "license": "BSD-3-Clause",
+    "version": "1.0.0",
+    "exposed-modules": [
+        "Css.Colors"
+    ],
+    "elm-version": "0.19.0 <= v < 0.20.0",
+    "dependencies": {
+        "elm/core": "1.0.0 <= v < 2.0.0",
+        "rtfeldman/elm-css": "16.0.1 <= v < 17.0.0"
+    },
+    "test-dependencies": {}
+}
